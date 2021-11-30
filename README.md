@@ -1,5 +1,3 @@
-[Spencer Eagleton](https://user-images.githubusercontent.com/86867967/144117811-3e9e8b78-71a4-45f0-81a8-398f36e88199.png)
-
 ### Hi, I'm Spencer! 👋!
 <!--
 **spencer-eagleton/spencer-eagleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
