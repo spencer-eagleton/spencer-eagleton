@@ -1,3 +1,5 @@
+![Spencer-Eagleton](https://github.com/spencer-eagleton/spencer-eagleton/blob/main/Spencer%20Eagleton.png?raw=true)
+
 ### Hi, I'm Spencer! 👋!
 <!--
 **spencer-eagleton/spencer-eagleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
