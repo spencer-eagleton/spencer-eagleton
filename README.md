@@ -7,6 +7,8 @@
 ## Languages
 - CSS
 - Javascript
+- React
+- SQL
 
 <!--
 **spencer-eagleton/spencer-eagleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
