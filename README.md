@@ -2,7 +2,7 @@
 
 # ***Hi, I'm Spencer!***
 ---
-*spencereagleton.com*
+*www.spencereagleton.com*
 ### I'm a full-stack software engineer, creating applications and features with efficient and clean code. I love learning new languages and frameworks that allow me to expand my stack. 
 
 ## Languages
