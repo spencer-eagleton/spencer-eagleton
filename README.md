@@ -5,10 +5,13 @@
 *www.spencereagleton.com*
 ### I'm a full-stack software engineer, creating applications and features with efficient and clean code. I love learning new languages and frameworks that allow me to expand my stack. 
 
-## Languages
+## Languages, Frameworks and Libraries
+- HTML
 - CSS
 - Javascript
+- Typescript
 - React
+- Angular
 - SQL
 
 <!--
